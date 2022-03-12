@@ -21,3 +21,8 @@ Default password: bitnami
 ```
 
 ⚠️ **If you change the default password, please update the `README.md`**
+
+```
+Blog page link
+http://localhost:8000
+```
